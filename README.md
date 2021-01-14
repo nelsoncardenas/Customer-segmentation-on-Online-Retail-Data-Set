@@ -3,7 +3,7 @@ Customer segmentation (or market segmentation) are techniques to split customers
 
 ### Archives
 * **Customer Segmentation.ipynb**: main file with the logic. the visuazlaition on GitHub does not show Plotly
-* **Customer Segmentation.html**: interactive option to see all the information without 
+* **Customer Segmentation.html**: interactive option to see all the information no need to install something. You just have to download the html and run it in a browser
 * **Online Retail.xlsx**: dataset
 
 ### Libraries used 
