@@ -2,7 +2,7 @@
 Customer segmentation (or market segmentation) are techniques to split customers into clusters based on similarities to get a sense of their behavior. In this notebook, we are going to analyze patterns in the Online Retail Data Set from the UCI Machine Learning Repository. A k-means model is used based on the RFM measures.
 
 ### Archives
-* **Customer Segmentation.ipynb**: main file with the logic. The visualization in GitHub don't show 
+* **Customer Segmentation.ipynb**: main file with the logic. the visuazlaition on GitHub does not show Plotly
 * **Customer Segmentation.html**: interactive option to see all the information without 
 * **Online Retail.xlsx**: dataset
 
